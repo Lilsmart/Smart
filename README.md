@@ -1,0 +1,2 @@
+# Smart
+All about hacking
